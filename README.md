@@ -25,7 +25,7 @@ The dashboard helps identify *high-risk customers, analyze **default patterns, a
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains loan applicant details including:
 
@@ -42,7 +42,7 @@ Total Records: *50,000+ customers*
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### KPI Cards
 
@@ -66,7 +66,7 @@ Total Records: *50,000+ customers*
 
 ---
 
-## 📊 Risk Classification Logic
+##  Risk Classification Logic
 
 Customers were classified using credit score:
 
@@ -80,7 +80,7 @@ This was implemented using *DAX calculated column*.
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 * High-risk customers have significantly higher default probability
 * Self-employed applicants show slightly higher risk
@@ -89,7 +89,7 @@ This was implemented using *DAX calculated column*.
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Load dataset into MySQL
 2. Connect MySQL to Power BI
@@ -99,7 +99,7 @@ This was implemented using *DAX calculated column*.
 
 ---
 
-## 📌 Business Use Case
+##  Business Use Case
 
 This dashboard helps:
 
@@ -111,7 +111,7 @@ This dashboard helps:
 ---
 
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 * SQL Data Analysis
 * Banking Domain Knowledge
@@ -121,7 +121,7 @@ This dashboard helps:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Vidit Kajvilkar
 Data Analyst | Banking & Finance Analytics | Power BI
