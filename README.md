@@ -54,15 +54,10 @@ Total Records: *50,000+ customers*
 ### Visualizations
 
 * Risk Category Distribution
-* Credit Risk by Employment Type
+* Credit Score vs Risk 
 * Loan Purpose Risk Analysis
-* Default Rate Analysis
+* Mortgage vs Risk 
 
-### Filters (Dropdown Slicers)
-
-* Employment Type
-* Education
-* Loan Purpose
 
 ---
 
