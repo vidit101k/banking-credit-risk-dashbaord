@@ -3,7 +3,7 @@
 ##  Project Overview
 
 This project analyzes *loan applicants’ credit risk* using banking data and presents insights through an interactive *Power BI dashboard*.
-The dashboard helps identify *high-risk customers, analyze **default patterns, and support **better lending decisions*.
+The dashboard helps identify high-risk customers, analyze default patterns, and support better lending decisions.
 
 ---
 
